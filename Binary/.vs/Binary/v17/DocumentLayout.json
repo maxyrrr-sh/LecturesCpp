@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\LecturesCpp\\Binary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39001EA8-6DD5-4001-A835-FB357316F8E8}|Binary.vcxproj|D:\\git\\LecturesCpp\\Binary\\Binary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39001EA8-6DD5-4001-A835-FB357316F8E8}|Binary.vcxproj|solutionrelative:Binary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Binary.cpp",
+              "DocumentMoniker": "D:\\git\\LecturesCpp\\Binary\\Binary.cpp",
+              "RelativeDocumentMoniker": "Binary.cpp",
+              "ToolTip": "D:\\git\\LecturesCpp\\Binary\\Binary.cpp",
+              "RelativeToolTip": "Binary.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T09:50:31.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
